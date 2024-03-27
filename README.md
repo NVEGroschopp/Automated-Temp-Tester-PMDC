@@ -27,20 +27,14 @@ This automated tester device serves as transmitter that sending temperature data
 5. Attach device at the end of the modular shaft.
 
 ## Usage
-1. Power on the system.
-2. [Add detailed usage instructions here]
-
+1. 
+2. 
 ## Troubleshooting
 If you encounter any issues during setup or usage, refer to the following troubleshooting steps:
 - 
 - 
 - 
 
-## Maintenance
-Regular maintenance is essential for optimal performance. Follow these guidelines:
-- 
-- 
-- 
 
 ## Conclusion
 
