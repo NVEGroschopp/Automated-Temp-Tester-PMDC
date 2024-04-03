@@ -17,7 +17,7 @@ The Automated Temperature Tester PMDC project utilizes an Arduino Nano 33 BLE, a
 This automated tester device serves as transmitter that sending temperature data through air using Bluetooth Low Energy module to the host labview program (Eng lab computer/Desktop/Automated Temp Test/PM Automated Temperature Test Final).
 
 ## Wiring Diagram
-![Wiring Diagram Automated Temp Test](image/Wiring%20Diagram%20Automated%20Temp.png)
+![Wiring Diagram Automated Temp Test](image/Wiring%20Diagram%20Automated%20Temp%20Test_bb.png)
 
 
 ## Installation and Setup
