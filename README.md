@@ -21,7 +21,7 @@ This automated tester device serves as transmitter that sending temperature data
 
 
 ## Installation and Setup
-1. Assemble the components according to the provided diagram and assembly print(referece X-20036 for assembly prints).
+1. Assemble the components according to the diagram and assembly print(referece X-20036 for assembly prints).
 2. Upload the Arduino sketch to the Arduino Nano 33 BLE.
 3. Attach thermocouple to the armature winding.
 4. Feed thermocouple through the bearing and attach yellow to positive + read to negetive - on the breakout board.
