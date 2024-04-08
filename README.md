@@ -6,9 +6,9 @@ The Automated Temperature Tester PMDC project utilizes an Arduino Nano 33 BLE, a
 ## Components
 - Arduino Nano 33 BLE
 - K-Type Thermocouple
-- Max6675.h Breakout Board
-- Slip Ring
-- BLED112 USB Dongle
+- Max6675 Breakout Board (https://a.co/d/3DE7FEz)
+- Slip Ring (https://a.co/d/8gP0RlK)
+- BLED112 USB Dongle (https://www.digikey.com/short/ch5m7prf)
 - Customized Shims for Bearing
 - Customized Shims for Different Frame Size
 - 3D Printed Fixtures
@@ -21,7 +21,7 @@ This automated tester device serves as transmitter that sending temperature data
 
 
 ## Installation and Setup
-1. Assemble the components according to the diagram and assembly print(referece X-20036 for assembly prints).
+1. Assemble the components according to the diagram and assembly print(referece X-20604 for assembly prints).
 2. Upload the Arduino sketch to the Arduino Nano 33 BLE.
 3. Attach thermocouple to the armature winding.
 4. Feed thermocouple through the bearing and attach yellow to positive + read to negetive - on the breakout board.
