@@ -28,13 +28,25 @@ This automated tester device serves as transmitter that sending temperature data
 5. Attach device at the end of the modular shaft.
 
 ## Usage
-1. Start with adjusting PID for the brake.
+1. Start by adjusting the PID for the brake.
 2. Select correct model for the brake and send configuration.
 3. Enter correct addresses for each device (see below) and check all physical connections.
 
 ![Device Address](image/Device%20Address.PNG)
 
-Note: MAC address for the temperature sensor maybe different 
+Note: MAC address for the Arduino board varies, the default mac address for the prototype device is 90:72:5D:EC:38:FA.
+      For other device that use new Arduino board find the mac address using labview subvi located at Eng lab computer/This PC/Desktop/ble_read_temperature.vi
+
+
+
+
+      [image for detail instruction]
+
+
+
+
+
+      
 ## Troubleshooting
 If you encounter any issues during setup or usage, refer to the following troubleshooting steps:
 - 
