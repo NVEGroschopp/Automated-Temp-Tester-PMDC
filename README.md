@@ -32,7 +32,9 @@ This automated tester device serves as transmitter that sending temperature data
 2. Select correct model for the brake and send configuration.
 3. Enter correct addresses for each device (see below) and check all physical connections.
 
+![Device Address](image/Device%20Address.PNG)
 
+Note: MAC address for the temperature sensor maybe different 
 ## Troubleshooting
 If you encounter any issues during setup or usage, refer to the following troubleshooting steps:
 - 
