@@ -20,6 +20,12 @@ This automated tester device serves as a transmitter that sends temperature data
 ## Wiring Diagram
 ![Wiring Diagram Automated Temp Test](image/Wiring%20Diagram%20Automated%20Temp%20Test_bb.png)
 
+
+
+
+
+![3D Model](image/Automated%20Temp%20Tester.png)
+
 ## Installation and Setup
 1. Assemble the components according to the diagram and assembly print (reference X-20604 for assembly prints).
 2. Upload the Arduino sketch to the Arduino Nano 33 BLE.
