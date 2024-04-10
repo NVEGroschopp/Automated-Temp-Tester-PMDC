@@ -41,6 +41,9 @@ This automated tester device serves as a transmitter that sends temperature data
 5. Turn on the brake fan.
 6. Hit the Start button to start the program.
 
+**The device needs to be restarted when starting a new test.**
+
+
 ![Device Address](image/Device%20Address.PNG)
 
 Note: The MAC address for the Arduino board varies. The default MAC address for the prototype device is 90:72:5D:EC:38:FA.
