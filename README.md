@@ -1,7 +1,7 @@
 # Automated Temperature Tester PMDC
 
 ## Overview
-The Automated Temperature Tester PMDC project utilizes an Arduino Nano 33 BLE, a K-Type Thermocouple, a Max6675.h Breakout Board, a slip ring, and a 3D printed fixture. This document serves as a comprehensive guide for assembly, wiring, and usage of the automated temperature test labview program.
+The Automated Temperature Tester PMDC project utilizes an Arduino Nano 33 BLE, a K-Type Thermocouple, a Max6675 Breakout Board, a slip ring, and 3D printed fixtures. This document serves as a comprehensive guide for assembly, wiring, and usage of the automated temperature test labview program.
 
 ## Components
 - Arduino Nano 33 BLE
@@ -31,6 +31,9 @@ This automated tester device serves as transmitter that sending temperature data
 1. Start by adjusting the PID for the brake.
 2. Select correct model for the brake and send configuration.
 3. Enter correct addresses for each device (see below) and check all physical connections.
+4. Set the power supply to the correct voltage and run the motor.
+5. Turn on the brake fan.
+6. Hit Start button to start the program.
 
 ![Device Address](image/Device%20Address.PNG)
 
@@ -40,8 +43,6 @@ Note: MAC address for the Arduino board varies, the default mac address for the 
 
 
 
-      [image for detail instruction]
-
 
 
 
@@ -49,9 +50,9 @@ Note: MAC address for the Arduino board varies, the default mac address for the 
       
 ## Troubleshooting
 If you encounter any issues during setup or usage, refer to the following troubleshooting steps:
-- 
-- 
-- 
+- Try restart the power analyser, power supply and brake controller by turning them off and back on.
+- Restart the computer and check the connections of GPIB to USB cable.
+- Restart the device.
 
 
 ## Conclusion
