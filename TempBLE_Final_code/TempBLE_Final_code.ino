@@ -1,5 +1,5 @@
 #include <ArduinoBLE.h>           // Bluetooth Library
-#include "max6675.h"
+#include "max6675.h"              // Breakout board Libray by Adafruit
 
 // Initalizing global variables for sensor data to pass onto BLE
 int thermoSO = 12;
