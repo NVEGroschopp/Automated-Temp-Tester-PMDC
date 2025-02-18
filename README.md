@@ -7,7 +7,7 @@ The Automated Temperature Tester PMDC project utilizes an Arduino Nano 33 BLE, a
 - Arduino Nano 33 BLE
 - K-Type Thermocouple
 - Max6675 Breakout Board (https://a.co/d/3DE7FEz)
-- Slip Ring (https://a.co/d/8gP0RlK)
+- Slip Ring (https://www.digikey.com/short/75tw2fn4)
 - BLED112 USB Dongle (https://www.digikey.com/short/ch5m7prf)
 - Customized Shims for Bearing
 - Customized Endbell for Different Frame Size
