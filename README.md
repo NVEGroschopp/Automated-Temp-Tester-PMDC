@@ -27,11 +27,13 @@ This automated tester device serves as a transmitter that sends temperature data
 ![3D Model](image/Automated%20Temp%20Tester.png)
 
 ## Installation and Setup
-1. Assemble the components according to the diagram and assembly print (reference X-20604 for assembly prints).
+1. Assemble the components according to the diagram and assembly print (reference X-20604 for assembly prints). View the Assembly Documentation PDF for more detailed information on assembly.
 2. Upload the Arduino sketch to the Arduino Nano 33 BLE.
 3. Attach the thermocouple to the armature winding.
 4. Feed the thermocouple through the bearing and attach the yellow to positive + and red to negative - on the breakout board.
 5. Attach the device at the end of the modular shaft.
+
+[Assembly Documentation.pdf](https://github.com/user-attachments/files/21864532/Assembly.Documentation.pdf)
 
 ## Usage
 1. Start by adjusting the PID for the brake.
