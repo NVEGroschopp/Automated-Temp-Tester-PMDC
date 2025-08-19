@@ -20,11 +20,7 @@ This automated tester device serves as a transmitter that sends temperature data
 ## Wiring Diagram
 ![Wiring Diagram Automated Temp Test](image/Wiring%20Diagram%20Automated%20Temp%20Test_bb.png)
 
-
-
-
-
-![3D Model](image/Automated%20Temp%20Tester.png)
+<img width="1370" height="736" alt="Assembly (Exploded)" src="https://github.com/user-attachments/assets/ea10c1f9-56e9-40f0-96e5-4c1b0494c3a5" />
 
 ## Installation and Setup
 1. Assemble the components according to the diagram and assembly print (reference X-20604 for assembly prints). View the Assembly Documentation PDF for more detailed information on assembly.
