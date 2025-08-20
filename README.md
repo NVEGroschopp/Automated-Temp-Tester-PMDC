@@ -4,11 +4,11 @@
 The Automated Temperature Tester PMDC project utilizes an Arduino Nano 33 BLE, a K-Type Thermocouple, a Max6675 Breakout Board, an induction coil, and 3D printed fixtures. This document serves as a comprehensive guide for assembly, wiring, and usage of the automated temperature test LabVIEW program.
 
 ## Components
-- Arduino Nano 33 BLE
+- [Arduino Nano 33 BLE Rev1](https://store-usa.arduino.cc/products/arduino-nano-33-ble-with-headers?utm_source=google&utm_medium=cpc&utm_campaign=US-Pmax&gad_source=1&gad_campaignid=21317508903&gbraid=0AAAAACbEa85ZLi0ETGqJeW2IrHkkLby9Y&gclid=Cj0KCQjw5JXFBhCrARIsAL1ckPs5NP1nmso9AvqEbcOGKTHKtxNGwzWlA7GenYra0dXE45ibF5IS4UgaAh9oEALw_wcB)
 - K-Type Thermocouple
-- Max6675 Breakout Board (https://a.co/d/3DE7FEz)
-- Induction coils (https://a.co/d/aSvJQnv)
-- BLED112 USB Dongle (https://www.digikey.com/short/ch5m7prf)
+- [Max6675 Breakout Board](https://a.co/d/3DE7FEz)
+- [Induction coils](https://a.co/d/aSvJQnv)
+- [BLED112 USB Dongle](https://www.digikey.com/short/ch5m7prf)
 - Customized Shims for Bearing
 - Customized Endbell for Different Frame Size
 - 3D Printed Fixtures
@@ -20,18 +20,16 @@ This automated tester device serves as a transmitter that sends temperature data
 ## Wiring Diagram
 ![Wiring Diagram Automated Temp Test](image/Wiring%20Diagram%20Automated%20Temp%20Test_bb.png)
 
-
-
-
-
-![3D Model](image/Automated%20Temp%20Tester.png)
+<img width="1370" height="736" alt="Assembly (Exploded)" src="https://github.com/user-attachments/assets/ea10c1f9-56e9-40f0-96e5-4c1b0494c3a5" />
 
 ## Installation and Setup
-1. Assemble the components according to the diagram and assembly print (reference X-20604 for assembly prints).
+1. Assemble the components according to the diagram and assembly print (reference X-20604 for assembly prints). View the Assembly Documentation PDF for more detailed information on assembly.
 2. Upload the Arduino sketch to the Arduino Nano 33 BLE.
 3. Attach the thermocouple to the armature winding.
 4. Feed the thermocouple through the bearing and attach the yellow to positive + and red to negative - on the breakout board.
 5. Attach the device at the end of the modular shaft.
+
+[Assembly Documentation.pdf](https://github.com/user-attachments/files/21864532/Assembly.Documentation.pdf)
 
 ## Usage
 1. Start by adjusting the PID for the brake.
