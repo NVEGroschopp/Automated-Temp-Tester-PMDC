@@ -1,7 +1,7 @@
 # Automated Temperature Tester PMDC
 
 ## Overview
-The Automated Temperature Tester PMDC project utilizes an Arduino Nano 33 BLE, a K-Type Thermocouple, a Max6675 Breakout Board, a slip ring, and 3D printed fixtures. This document serves as a comprehensive guide for assembly, wiring, and usage of the automated temperature test LabVIEW program.
+The Automated Temperature Tester PMDC project utilizes an Arduino Nano 33 BLE, a K-Type Thermocouple, a Max6675 Breakout Board, an induction coil, and 3D printed fixtures. This document serves as a comprehensive guide for assembly, wiring, and usage of the automated temperature test LabVIEW program.
 
 ## Components
 - [Arduino Nano 33 BLE Rev1](https://store-usa.arduino.cc/products/arduino-nano-33-ble-with-headers?utm_source=google&utm_medium=cpc&utm_campaign=US-Pmax&gad_source=1&gad_campaignid=21317508903&gbraid=0AAAAACbEa85ZLi0ETGqJeW2IrHkkLby9Y&gclid=Cj0KCQjw5JXFBhCrARIsAL1ckPs5NP1nmso9AvqEbcOGKTHKtxNGwzWlA7GenYra0dXE45ibF5IS4UgaAh9oEALw_wcB)
